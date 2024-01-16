@@ -1,0 +1,8 @@
+.custom-container {
+    width: 2000px;
+    margin: 0 auto;
+}
+
+body {
+    background: linear-gradient(to bottom, #f9ece6, #f89cab);
+}
